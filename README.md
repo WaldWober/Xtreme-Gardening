@@ -9,3 +9,4 @@ You are a member of an elite gardening unit known as the Weed Killers, created t
 - Press Q at any time to quit
 - Use the arrow keys to move left and right.
 - Press the spacebar during the game to fire your weapon.
+## The Game Screen

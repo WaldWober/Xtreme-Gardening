@@ -363,7 +363,7 @@ def setup():
     powerup3 = ShieldPowerUp(500, -3000, powerup_img)
 
     powerups = pygame.sprite.Group()
-    powerups.add(powerup1)
+    powerups.add(powerup1, powerup2, powerup3)
     
     ''' set stage '''
     stage = START

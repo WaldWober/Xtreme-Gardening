@@ -359,6 +359,9 @@ def setup():
     fleet = Fleet(mobs)
 
     powerup1 = ShieldPowerUp(200, -800, powerup_img)
+    powerup2 = ShieldPowerUp(860, -2000, powerup_img)
+    powerup3 = ShieldPowerUp(500, -3000, powerup_img)
+
     powerups = pygame.sprite.Group()
     powerups.add(powerup1)
     

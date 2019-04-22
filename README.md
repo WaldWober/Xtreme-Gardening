@@ -1,5 +1,5 @@
 # Xtreme Gardening
-[Link to repository](
+[Link to repository](https://github.com/WaldWober/Xtreme-Gardening)
 
 ## Story
 In the year 20XX, vegetation rose up against their human overlords.

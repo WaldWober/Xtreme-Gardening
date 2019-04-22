@@ -12,9 +12,9 @@ You are a member of an elite gardening unit known as the Weed Killers, created t
 - Press the spacebar during the game to fire your weapon.
 
 ### Extra Info
--All bushes take two shots to kill. Bushes that have taken a hit are are shown by having an angry face.
--3 shield powerups (which will fully repair the ship's shield) will drop in set locations over the course of the game.
--Every wave will be harder than the last!
+- All bushes take two shots to kill. Bushes that have taken a hit are are shown by having an angry face.
+- 3 shield powerups (which will fully repair the ship's shield) will drop in set locations over the course of the game.
+- Every wave will be harder than the last!
 
 ## The Game Screen
 ![Screenshot](https://raw.githubusercontent.com/WaldWober/Xtreme-Gardening/master/Extreme%20Tutorial%20Image.png)
